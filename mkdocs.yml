@@ -87,7 +87,7 @@ nav:
   - 前言: "index.md"
   - Fdu大一新生 部分指南: "freshman.md"
   - 社政:
-      - 社政分团委学生会
+      - 社政分团委学生会: "社政/fenxue.md"
       - 学术发展部: "社政/xuefa.md"
   - 经验传承:
       - 出行游逛: "出行游逛/tours.md"
